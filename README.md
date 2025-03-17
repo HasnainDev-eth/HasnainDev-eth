@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **solidity, React, ether.js, javascript**
 
-- 📫 How to reach me **hasnaink9090@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
